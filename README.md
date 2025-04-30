@@ -1,14 +1,11 @@
+<p align="right">
+🌐 <a href="#english-version">English</a> | <a href="#-versão-em-português">Português</a>
+</p>
+
 # 👨‍💻 João Pablo Vilanir de Melo — Fullstack Developer
 
-## 🇺🇸 English Version
----
+## 🇺🇸 English Version {#english-version}
 
-<div align="right">
-
-  🇧🇷 [Versão em Português](#-versão-em-português)
-</div>
-
----
 ### 💡 About Me
 I'm a Fullstack Developer passionate about technology, always inspired by curiosity and problem solving. I work mainly with Node.js, Angular, microservices and event-driven architecture.
 
@@ -28,6 +25,11 @@ I’m currently working at **Mais Chat Tecnologia**, developing scalable back-en
 **Cloud/Tools:** Docker, MinIO, Git, Trello  
 **Design:** Figma, Canva, Adobe Photoshop & Illustrator
 
+### 📌 Currently Learning
+- Advanced Software Architecture
+- Clean Code & SOLID Principles
+- Kubernetes (coming soon)
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=JPabloVM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JPabloVM&theme=dark&hide_border=false)  
@@ -37,15 +39,9 @@ I’m currently working at **Mais Chat Tecnologia**, developing scalable back-en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pablo-vilanir-9033b01b2)
 
 
+---
+
 ## 🇧🇷 Versão em Português
----
-
-<div align="right">
-
-  🇺🇸 [English version](#-english-version)
-</div>
-
----
 
 ### 💡 Sobre Mim
 Sou um Desenvolvedor Fullstack apaixonado por tecnologia, movido pela curiosidade e pela vontade de resolver problemas. Atualmente trabalho na **Mais Chat Tecnologia**, desenvolvendo serviços escaláveis com foco em:
@@ -64,6 +60,11 @@ Sou um Desenvolvedor Fullstack apaixonado por tecnologia, movido pela curiosidad
 **Ferramentas/Cloud:** Docker, MinIO, Git, Trello  
 **Design:** Figma, Canva, Adobe Photoshop & Illustrator
 
+### 📌 Aprendizados Atuais
+- Arquitetura de Software Avançada
+- Clean Code & Princípios SOLID
+- Kubernetes (em breve)
+
 ### 📊 Estatísticas do GitHub
 ![](https://github-readme-stats.vercel.app/api?username=JPabloVM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JPabloVM&theme=dark&hide_border=false)  
@@ -71,5 +72,9 @@ Sou um Desenvolvedor Fullstack apaixonado por tecnologia, movido pela curiosidad
 
 ### 🌐 Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pablo-vilanir-9033b01b2)
+
+---
+
+🔁 Leia em [🇺🇸 English](#english-version)
 
 ---
