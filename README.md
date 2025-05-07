@@ -9,7 +9,7 @@
 ### 💡 About Me
 I'm a Fullstack Developer passionate about technology, always inspired by curiosity and problem solving. I work mainly with Node.js, Angular, microservices and event-driven architecture.
 
-I’m currently working at **Mais Chat Tecnologia**, developing scalable back-end services using:
+I’m currently working developing scalable back-end services using:
 
 - **Apache Kafka** for asynchronous messaging
 - **gRPC** and **WebSocket** for real-time communication
@@ -44,7 +44,7 @@ I’m currently working at **Mais Chat Tecnologia**, developing scalable back-en
 ## 🇧🇷 Versão em Português
 
 ### 💡 Sobre Mim
-Sou um Desenvolvedor Fullstack apaixonado por tecnologia, movido pela curiosidade e pela vontade de resolver problemas. Atualmente trabalho na **Mais Chat Tecnologia**, desenvolvendo serviços escaláveis com foco em:
+Sou um Desenvolvedor Fullstack apaixonado por tecnologia, movido pela curiosidade e pela vontade de resolver problemas. Atualmente trabalho desenvolvendo serviços escaláveis com foco em:
 
 - **Apache Kafka** para mensagens assíncronas
 - **gRPC** e **WebSocket** para comunicação em tempo real
